@@ -1,0 +1,17 @@
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\bin\Debug\net8.0-windows\Guests.exe
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\bin\Debug\net8.0-windows\Guests.deps.json
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\bin\Debug\net8.0-windows\Guests.runtimeconfig.json
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\bin\Debug\net8.0-windows\Guests.dll
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\bin\Debug\net8.0-windows\Guests.pdb
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\Guests.Form1.resources
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\Guests.Properties.Resources.resources
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\Guests.csproj.GenerateResource.cache
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\Guests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\Guests.AssemblyInfoInputs.cache
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\Guests.AssemblyInfo.cs
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\Guests.csproj.CoreCompileInputs.cache
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\Guests.dll
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\refint\Guests.dll
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\Guests.pdb
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\Guests.genruntimeconfig.cache
+C:\Users\chifu\OneDrive\Desktop\C#\Guests\obj\Debug\net8.0-windows\ref\Guests.dll
