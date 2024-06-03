@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dashboard123", "dashboard123\dashboard123.csproj", "{57A4BCB6-AD2A-46BA-BED7-1B1CCF59BDB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dashboard1234", "dashboard1234\dashboard1234.csproj", "{8B374228-C9E6-4ED5-ACE6-41F637862792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57A4BCB6-AD2A-46BA-BED7-1B1CCF59BDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A4BCB6-AD2A-46BA-BED7-1B1CCF59BDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A4BCB6-AD2A-46BA-BED7-1B1CCF59BDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A4BCB6-AD2A-46BA-BED7-1B1CCF59BDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B374228-C9E6-4ED5-ACE6-41F637862792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B374228-C9E6-4ED5-ACE6-41F637862792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B374228-C9E6-4ED5-ACE6-41F637862792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B374228-C9E6-4ED5-ACE6-41F637862792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B49CBFE3-DD61-4548-8E80-601150CDF520}
+	EndGlobalSection
+EndGlobal
