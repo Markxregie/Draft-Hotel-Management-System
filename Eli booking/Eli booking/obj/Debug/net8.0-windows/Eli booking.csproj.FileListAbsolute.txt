@@ -1,0 +1,17 @@
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\bin\Debug\net8.0-windows\Eli booking.exe
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\bin\Debug\net8.0-windows\Eli booking.deps.json
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\bin\Debug\net8.0-windows\Eli booking.runtimeconfig.json
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\bin\Debug\net8.0-windows\Eli booking.dll
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\bin\Debug\net8.0-windows\Eli booking.pdb
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\Eli_booking.Form1.resources
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\Eli_booking.Properties.Resources.resources
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\Eli booking.csproj.GenerateResource.cache
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\Eli booking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\Eli booking.AssemblyInfoInputs.cache
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\Eli booking.AssemblyInfo.cs
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\Eli booking.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\Eli booking.dll
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\refint\Eli booking.dll
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\Eli booking.pdb
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\Eli booking.genruntimeconfig.cache
+C:\Users\user\Documents\oop assign\practice\Eli booking\Eli booking\obj\Debug\net8.0-windows\ref\Eli booking.dll
