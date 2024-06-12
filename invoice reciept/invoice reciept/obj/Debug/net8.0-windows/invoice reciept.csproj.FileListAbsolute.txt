@@ -1,0 +1,22 @@
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice_reciept.CustomComboBox.resources
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice_reciept.Form1.resources
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice_reciept.Resources.resources
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice reciept.csproj.GenerateResource.cache
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice reciept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice reciept.AssemblyInfoInputs.cache
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice reciept.AssemblyInfo.cs
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice reciept.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice_reciept.TextBox.resources
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice reciept.csproj.AssemblyReference.cache
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\bin\Debug\net8.0-windows\invoice reciept.exe
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\bin\Debug\net8.0-windows\invoice reciept.deps.json
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\bin\Debug\net8.0-windows\invoice reciept.runtimeconfig.json
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\bin\Debug\net8.0-windows\invoice reciept.dll
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\bin\Debug\net8.0-windows\invoice reciept.pdb
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice .16CDD8DD.Up2Date
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice reciept.dll
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\refint\invoice reciept.dll
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice reciept.pdb
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\invoice reciept.genruntimeconfig.cache
+C:\Users\user\Documents\oop assign\practice\invoice reciept\invoice reciept\obj\Debug\net8.0-windows\ref\invoice reciept.dll

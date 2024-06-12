@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3j4ej/Z5bOhl/kFUI1HZuHcm9aQVnTJFdOXT2nNgoJJ/Ld4x/8DbX6Mc5vMG8Lxvn8dhSqLUpLPHGwBtNVHkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\oop assign\\practice\\invoice reciept\\invoice reciept\\invoice reciept.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
